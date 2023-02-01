@@ -1,0 +1,31 @@
+.pageContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: .5em;
+    margin: 0 auto 0 auto;
+}
+
+.projectContainer {
+    padding: 2em;
+}
+
+.titleContainer {
+    margin-bottom: 2em;
+}
+
+.buttonContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 0 auto;
+}
+
+.projectsList {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20em;
+}

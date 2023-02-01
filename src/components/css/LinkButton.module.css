@@ -1,0 +1,11 @@
+.linkBtn {
+    background-color: #222;
+    color: #fff;
+    padding: .5em;
+    text-decoration: none;
+    transition: .5s;
+}
+
+.linkBtn:hover {
+    color: #ffbb33
+}
